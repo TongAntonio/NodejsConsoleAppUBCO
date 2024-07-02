@@ -16,7 +16,7 @@ This application translates text into a fictional language based on specified ru
 2. Navigate to the project directory.
 3. Install dependencies: `npm install`
 4. Start the server: `npm start`
-5. Open your browser and go to `http://localhost:3000`
+5. Open your directory and Open CMD then run command 'node app.js' 
 
 ## Future Enhancements
 - Add functionality to translate back from the alien language to English.
